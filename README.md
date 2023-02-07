@@ -1,3 +1,3 @@
 # resources
 
-# [web](https://3000-kjraval-panel-2k2ci9a5izj.ws-us82.gitpod.io)
+# https://github.com/vkaelin/LeagueStats?ref=morioh.com&utm_source=morioh.com
