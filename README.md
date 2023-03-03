@@ -1,3 +1,3 @@
 # resources
 
-# [link](https://3000-kjraval-employeeproject-bgdgnaul1v3.ws-us87.gitpod.io/)
+# [link](https://3000-kjraval-openai-bwqa340mqdx.ws-us89.gitpod.io/)
